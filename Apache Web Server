@@ -1,0 +1,33 @@
+APACHE WEB SERVER :-
+#Understanding the developmental model :
+Apache is considered open source software, which means the original source code is freely available for viewing and collaboration. 
+Apache is just one component that is needed in a web application stack to deliver web content. 
+One of the most common web application stacks involves LAMP, or Linux, Apache, MySQL, and PHP.
+As a Web server, Apache is responsible for accepting directory (HTTP) requests from Internet users and sending them their desired information in the form of files and Web pages.
+Much of the Web’s software and code is designed to work along with Apache’s features.
+•Features of Apache Web Server:
+Handling of static files
+Loadable dynamic modules
+Auto-indexing
+.htaccess
+Compatible with IPv6
+Supports HTTP/2
+FTP connections
+Gzip compression and decompression
+Bandwidth throttling
+Perl, PHP, Lua scripts
+Load balancing
+Session tracking
+URL rewriting
+Geolocation based on IP address
+#Licensing:
+The Apache License is a permissive free software license written by the Apache Software Foundation (ASF).
+It allows users to use the software for any purpose, to distribute it, to modify it, and to distribute modified versions of the software under the terms of the license, without concern for royalties.
+The ASF and its projects release their software products under the Apache License. 
+The license is also used by many non-ASF projects.
+#Mode of Funding:
+They are a non for profit organization. But they do receive donations/sponsorship to cover operation costs. 
+Code contributions are mostly from open source community volunteering their time.
+#Commercial/non commercial use:
+We can use software with an Apache license for any purpose: personal, internal or external, and commercial.
+Commercial use, warranties, and patent claims are allowed with the Apache license.
